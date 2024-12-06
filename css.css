@@ -1,0 +1,52 @@
+body {
+  background-color: gray;
+  color: white;
+}
+.ttl-hist{
+  font-size: 30px;
+  font-family: arial;
+  text-align: center;
+  color: black;
+  background-color: white;
+  margin: 0px 13% 10px 13%;
+  border: red solid 5px;
+  border-radius: 0 15px 0 15px;
+}
+.fim {
+  font-size: 30px;
+  font-family: arial;
+  text-align: center;
+  color: black;
+  background-color: white;
+  margin: 10px 32% 0 32%;
+  border: red solid 5px;
+  border-radius: 15px 0px 15px 0px;
+}
+.gatoj-img {
+  border: yellow solid 5px;
+  margin: 0 0 0 4%;
+  border-radius: 0 50px 0 50px;
+} .gatoj-p {
+  font-size: 18px;
+  border: black solid 3px;
+  background-color: yellow;
+  color: black;
+  border-radius: 15px;
+  font-family: times;
+  margin: 4px 0px 0 1.5%;
+  padding: 0 0 0 4px;
+}
+.fresh {
+  margin: 0 0 0 7%;
+  border: lightgreen solid 5px;
+  border-radius: 50px 0 50px 0px;
+} .fresh-p {
+  font-size: 18px;
+  border: black solid 3px;
+  background-color: lightgreen;
+  color: black;
+  border-radius: 15px;
+  font-family: times;
+  margin: 4px 0px 0 4.5%;
+  padding: 0 0 0 4px;
+}
